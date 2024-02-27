@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2019%2F12%2Fandroiddevchallenge-today-is-last-day.html&psig=AOvVaw2lLBpQuwbzBZHlKhqS9fMk&ust=1709123749123000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLD80aHEy4QDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ye Min Naing</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3604186-Developer&psig=AOvVaw1wmS0KoVnmOWDOnQuQJgtA&ust=1709123519196000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCYvbTDy4QDFQAAAAAdAAAAABAR")
+<h3 align="center">A passionate android developer from Myanmar</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3604186-Developer&psig=AOvVaw1wmS0KoVnmOWDOnQuQJgtA&ust=1709123519196000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCYvbTDy4QDFQAAAAAdAAAAABAR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeminnaing1112&label=Profile%20views&color=0e75b6&style=flat" alt="yeminnaing1112" /> </p>
 
