@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GroceryPos](https://github.com/YeMinNaing1112/Grocery-Pos.git)
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android , JetPack Compose**
 
 - 💬 Ask me about **Java,Kotlin,Android**
 
