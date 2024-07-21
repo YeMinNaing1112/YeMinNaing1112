@@ -14,6 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ye min naing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ye min naing" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yemin-naing-1a625625b/" rel="nofollow noreferrer">
+    <img align="center" src="https://i.sstatic.net/gVE0j.png" alt="linkedin"
+      height="30" width="40"> 
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
