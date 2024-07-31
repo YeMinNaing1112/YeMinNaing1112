@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeminnaing1112&label=Profile%20views&color=0e75b6&style=flat" alt="yeminnaing1112" /> </p>
   
-- 🔭 I’m currently working on Hobby Meet
+- 🔭 I’m currently working as a Freelancer
 
 - 🌱 I’m currently learning **Android , JetPack Compose**
 
